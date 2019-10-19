@@ -9,6 +9,7 @@ Entrophy varies between 0 and 1
 Gini Impurity Varies Betwee 0 and 0.5
 
 when entrophy is high it indicates that the resulting nodes does not have unique class .
+
 ex1: 
 
       positive class :50 %
@@ -28,4 +29,5 @@ Decision Tree applied on DonorsChoose Dataset
 
 # Facing error while loading IPYNB "Sorry, something went wrong. Reload?"
 
-please click the following link https://nbviewer.jupyter.org/github/prassena/Support-Vector-Classification/blob/master/Support%20Vector%20Classifier.ipynb
+please click the following link 
+https://nbviewer.jupyter.org/github/prassena/Decision-Tree/blob/master/Decision%20Tree.ipynb
